@@ -6,5 +6,3 @@
 <img align='center' src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnp5MzZvdDZieTFzMG96ZmFoY2RvaW14OGV5ZGVvdzZ2NDA5bGF3ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tUnSstz3Xa17a/giphy.webp" width="350" height="auto"/>
 <p>To lack individuality is to deny the very chaos from<br /> which greatness is born
 ― Friedrich Nietzsche</p>
-<hr>
-<p>Iesus Christus Dominus Est</p>
