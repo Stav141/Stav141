@@ -7,6 +7,6 @@
 <p>To lack individuality is to deny the very chaos from<br /> which greatness is born
 ― Friedrich Nietzsche</p>
 
-<img align='center' src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnp5MzZvdDZieTFzMG96ZmFoY2RvaW14OGV5ZGVvdzZ2NDA5bGF3ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tUnSstz3Xa17a/giphy.webp" width="350" height="auto"/>
+<img align='center' src="https://media4.giphy.com/media/iQHDtnUZ7gxI4/giphy.gif?cid=6c09b952334v7k86pmxnxauhssrwgzdbjowl9dtg7t0erdxf&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" width="350" height="auto"/>
 <p>"For what shall it profit a man, if he shall gain the whole world, and lose his own soul?"
 — Mark 8:36</p>
