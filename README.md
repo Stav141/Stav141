@@ -10,3 +10,7 @@
 <img align='center' src="https://media4.giphy.com/media/iQHDtnUZ7gxI4/giphy.gif?cid=6c09b952334v7k86pmxnxauhssrwgzdbjowl9dtg7t0erdxf&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" width="350" height="auto"/>
 <p>"For what shall it profit a man, if he shall gain the whole world, and lose his own soul?"
 — Mark 8:36</p>
+
+<img align='center' src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExejMzbGxhM3hyODA5bm5lZGwwYWx1ZGc2am4ycWVvMTByNWVvZHRmaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1oDA6lccgPe1y/giphy.gif" width="350" height="auto"/>
+<p>"I used to imagine adventures for myself, I invented a life, so that I could at least exist somehow." 
+-Fyodor Dostoevsky</p>
