@@ -14,3 +14,8 @@
 <img align='center' src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExejMzbGxhM3hyODA5bm5lZGwwYWx1ZGc2am4ycWVvMTByNWVvZHRmaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1oDA6lccgPe1y/giphy.gif" width="350" height="auto"/>
 <p>"I used to imagine adventures for myself, I invented a life, so that I could at least exist somehow." 
 -Fyodor Dostoevsky</p>
+
+<img align='center' src="https://media3.giphy.com/media/aD1fI3UUWC4/giphy.gif?cid=6c09b95258ax2y6omeo2vsfzfvcyb9mquslm88rykse7amer&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" width="350" height="auto"/>
+<p>"The human condition is a tragedy masked as a comedy" —MrRobot</p>
+
+
